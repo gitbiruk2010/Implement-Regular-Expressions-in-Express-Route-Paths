@@ -23,7 +23,7 @@ Start the Server: Start the server by running:
 
 bash
 
-    node app.js
+    node test.js
 
     Access the Server: Open a web browser or use a tool like curl to access the server:
         Access http://localhost:3000/user and http://localhost:3000/username. Both should respond with "Hello, user or username!".
